@@ -3,3 +3,34 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.font-thin {
+    font-weight: 100;
+  }
+  
+  .font-extralight {
+    font-weight: 200;
+  }
+  
+  .font-light {
+    font-weight: 300;
+  }
+
+  .font-regular {
+    font-weight: 400;
+  }
+  
+  /* Add classes for other weights (400, 500, 600, etc.) */
+  
+  .font-bold {
+    font-weight: 700;
+  }
+  
+  .font-extrabold {
+    font-weight: 800;
+  }
+  
+  .font-black {
+    font-weight: 900;
+  }
+  
